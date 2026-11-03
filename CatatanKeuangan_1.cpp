@@ -48,4 +48,4 @@ void tambahTransaksi() {
     jumlahData++;
     cout << "[v] Transaksi berhasil dicatat!\n";
 }
-
+.
