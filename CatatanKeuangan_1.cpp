@@ -50,7 +50,7 @@ void tambahTransaksi() {
 }
 <<<<<<< HEAD
 
-double hitungSaldoTotal() {
+    double hitungSaldoTotal() {
     double totalPemasukan = 0;
     double totalPengeluaran = 0;
 
