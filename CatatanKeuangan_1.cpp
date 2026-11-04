@@ -12,7 +12,7 @@ double nominal[MAX_TRANSAKSI];
 int jenis[MAX_TRANSAKSI]; 
 int jumlahData = 0;
 
-// menu
+
 void tampilkanMenu() {
     cout << "\n=========================================\n";
     cout << "     Aplikasi Keuangan Pribadi (SmartWallet)\n";
