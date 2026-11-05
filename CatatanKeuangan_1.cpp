@@ -48,7 +48,6 @@ void tambahTransaksi() {
     jumlahData++;
     cout << "[v] Transaksi berhasil dicatat!\n";
 }
-<<<<<<< HEAD
 
     double hitungSaldoTotal() {
     double totalPemasukan = 0;
